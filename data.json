@@ -1,0 +1,908 @@
+{
+  "46-056": {
+    "title": "Tilt Lever Bearing Removal and Installation",
+    "bulletinNumber": "46-056",
+    "steps": [
+      {
+        "note": true,
+        "overview": "Step 1: Park the vehicle on a level surface with the front tires pointed straight ahead, shut down the engine, and set the parking brake. Chock the tires.",
+        "procedures": [
+          "NOTE: The following procedure can be performed with the steering wheel in place."
+        ]
+      },
+      {
+        "image": true,
+        "images": [
+          "1"
+        ],
+        "imageTitle": [
+          "Clam Shell Cover Removal"
+        ],
+        "imageDesc": [
+          "1.Column Cover, Lower 2.Screws"
+        ],
+        "overview": "Step 2: Remove the fasteners that hold the clam shell cover",
+        "procedures": []
+      },
+      {
+        "image": true,
+        "images": [
+          "2"
+        ],
+        "imageTitle": [
+          "Clam Shell Cover Removal"
+        ],
+        "imageDesc": [
+          "1.Screws 2.Column Cover, Upper"
+        ],
+        "overview": "Step 3: Remove the steering wheel clam shell cover.",
+        "procedures": []
+      },
+      {
+        "image": true,
+        "images": [
+          "3"
+        ],
+        "imageTitle": [
+          "Column Kick Panel Removal"
+        ],
+        "imageDesc": [
+          "1.Column Kick Panel 2.Screws"
+        ],
+        "note": true,
+        "overview": "Step 4: Remove the column kick panel",
+        "procedures": [
+          "NOTE: The panels surrounding the column kick panel can be loosened ."
+        ]
+      },
+      {
+        "image": true,
+        "images": [
+          "warning"
+        ],
+        "imageTitle": [
+          " "
+        ],
+        "imageDesc": [
+          " "
+        ],
+        "overview": "WARNING: While the locking mechanism is taken apart, do not pull the steering wheel hard or use it as a grab handle, as there is a risk of damaging the tilt plates on the column which may disable the column's telescope function that requires the whole column to be replaced.",
+        "procedures": []
+      },
+      {
+        "image": true,
+        "images": [
+          "4"
+        ],
+        "imageTitle": [
+          "Cotter Pin Removal"
+        ],
+        "imageDesc": [
+          "1.C-clip 2.Castle Nut 3.Thrust Washer 4.Thrust Bearing 5.Inner Cam 6. Outer Cam"
+        ],
+        "overview": "Step 5: Remove the cotter pin from the tilt lever bolt.",
+        "procedures": []
+      },
+      {
+        "overview": "Step 6: Secure the bolt with a 1/2-inch wrench, then remove the castle nut using a 11/16-inch wrench while the lever is in the unlocked position.",
+        "procedures": []
+      },
+      {
+        "image": true,
+        "images": [
+          "5"
+        ],
+        "imageTitle": [
+          "Thrust Washer Removal"
+        ],
+        "imageDesc": [
+          "A. Castle nut removed to expose the thrust washer stack"
+        ],
+        "overview": "Step 7: Remove the thrust washer stack that sits under the castle nut.",
+        "procedures": []
+      },
+      {
+        "overview": "Step 8: Remove the outer cam of the locking mechanism.",
+        "procedures": []
+      },
+      {
+        "image": true,
+        "images": [
+          "6"
+        ],
+        "imageTitle": [
+          "C-clip Removal"
+        ],
+        "imageDesc": [
+          "1.C-clip 2.Exposed Thrust Bearing"
+        ],
+        "overview": "Step 9: Remove the thrust bearing that sits between the two cams of the locking mechanism.",
+        "procedures": []
+      },
+      {
+        "overview": "Step 10: Remove the c-clip that holds the inner cam in place.",
+        "procedures": []
+      },
+      {
+        "overview": "Step 11: Remove the inner cam of the locking mechanism.",
+        "procedures": []
+      },
+      {
+        "overview": "Step 12: Install the new inner cam.",
+        "procedures": []
+      },
+      {
+        "overview": "Step 13: Install the c-clip that secures the inner cam.",
+        "procedures": []
+      },
+      {
+        "overview": "Step 14: Apply the grease to the inner and outer cams.",
+        "procedures": []
+      },
+      {
+        "image": true,
+        "images": [
+          "7"
+        ],
+        "imageTitle": [
+          "Thrust Bearing"
+        ],
+        "imageDesc": [
+          " "
+        ],
+        "overview": "Step 15: Install the new thrust bearing onto the outer cam.",
+        "procedures": []
+      },
+      {
+        "overview": "Step 16: Install both the outer cam and the thrust bearing onto the column.",
+        "procedures": []
+      },
+      {
+        "overview": "Step 17: Install the thrust washer stack",
+        "procedures": []
+      },
+      {
+        "overview": "Step 18: Install the castle nut, hand tightening it while the lever is in the unlocked position.",
+        "procedures": []
+      },
+      {
+        "overview": "Step 19: Put lever in the locked position and torque the castle nut to 85 lbf\u00c2\u00b7ft (115 N\u00c2\u00b7m).",
+        "procedures": []
+      },
+      {
+        "overview": "Step 20: Install the new cotter pin but do not lock it yet.",
+        "procedures": []
+      },
+      {
+        "overview": "Step 21: Test the column lock to check for the proper function.",
+        "procedures": []
+      },
+      {
+        "overview": "Step 22: Lock the cotter pin.",
+        "procedures": []
+      },
+      {
+        "overview": "Step 23: Install the column kick panel.",
+        "procedures": []
+      },
+      {
+        "overview": "Step 24: Install the column clam shell.",
+        "procedures": []
+      }
+    ]
+  },
+  "54-308": {
+    "title": "Chassis ECU Programming",
+    "bulletinNumber": "54-308",
+    "steps": [
+      {
+        "overview": "Step 1: Park the vehicle, shut down the engine, and apply the parking brakes. Chock the tires.",
+        "procedures": []
+      },
+      {
+        "image": true,
+        "images": [
+          "1"
+        ],
+        "imageTitle": [
+          "Updating DiagnosticLink to the Latest Version"
+        ],
+        "imageDesc": [
+          " "
+        ],
+        "note": true,
+        "overview": "Step 2: Connect the vehicle to DiagnosticLink. Make sure that DiagnosticLink is updated to the latest version, 8.09sp2. To update DiagnosticLink, select \"Update\" from the dropdown menu under \"Tools.\"",
+        "procedures": [
+          "IMPORTANT: Before performing this procedure, make sure to address any pre-existing conditions or fault codes first.\r\nIt is recommended when flashing to configure DiagnosticLink to connect only to \"Default\" modules, and stay in this configuration unless it is specifically needed to manually connect to the Common Telematics Platform (cTP) ECU. Default modules allow DiagnosticLink to connect only to the modules that need flashing, and ignores things like the cTP or the steering angle sensor.\r\nTo make this change in DiagnosticLink:\r\nFrom the top click \"Tools\", and select \"Options\" form the drop down menu.\r\nFind and select the \"Connection\" tab.\r\nClick the \"Select Defaults\" box on the right side of the tab, and hit \"Apply.\""
+        ]
+      },
+      {
+        "image": true,
+        "images": [
+          "2"
+        ],
+        "imageTitle": [
+          "Program Device Screen"
+        ],
+        "imageDesc": [
+          " "
+        ],
+        "overview": "Step 3: Select \"Program Device.\" If there are any items in the section \"Request Pending\" downloads, they should be removed. To remove them, select the \"Request Pending\" list item, then press the \"Remove All\" button.",
+        "procedures": []
+      },
+      {
+        "image": true,
+        "images": [
+          "1"
+        ],
+        "imageTitle": [
+          "Reading Vehicle Parameters on DiagnosticLink"
+        ],
+        "imageDesc": [
+          " "
+        ],
+        "overview": "Step 4: Once all controllers are connected, read the vehicle parameters.",
+        "procedures": []
+      },
+      {
+        "image": true,
+        "images": [
+          "1"
+        ],
+        "imageTitle": [
+          "Uploading Vehicle Parameters"
+        ],
+        "imageDesc": [
+          "1. Program Device 2. Connect to Server"
+        ],
+        "overview": "Step 5: Select \"Program Device.\" There should be data to upload. Click \"Connect to Server\" to upload vehicle parameters to the server.",
+        "procedures": []
+      },
+      {
+        "image": true,
+        "images": [
+          "1"
+        ],
+        "imageTitle": [
+          "Adding the VIN to Download Updated Server Data"
+        ],
+        "imageDesc": [
+          " "
+        ],
+        "overview": "Step 6: Click \"Add\" to add a download request for the vehicle.",
+        "procedures": []
+      },
+      {
+        "image": true,
+        "images": [
+          "1"
+        ],
+        "imageTitle": [
+          "Verifying Correct VIN Hardware"
+        ],
+        "imageDesc": [
+          " "
+        ],
+        "overview": "Step 7: Make sure the correct VIN and hardware is populated, then click OK.",
+        "procedures": []
+      },
+      {
+        "image": true,
+        "images": [
+          "1"
+        ],
+        "imageTitle": [
+          "Downloading Updated Unit Data"
+        ],
+        "imageDesc": [
+          " "
+        ],
+        "overview": "Step 8: There should be a request pending status for the VIN. Click \"connect to server\" to download the updated unit data. The server will provide any new software available on the server as well as updated parameter sets for the new software, adjusted for the parameter set that was just uploaded from the vehicle.",
+        "procedures": []
+      },
+      {
+        "image": true,
+        "images": [
+          "1"
+        ],
+        "imageTitle": [
+          "Clicking Next"
+        ],
+        "imageDesc": [
+          " "
+        ],
+        "note": true,
+        "overview": "Step 9: Once the data has been downloaded, click \"Next\".",
+        "procedures": [
+          "NOTE: \"Latest\" is the last service record (may be older software) and \"Newest\" is the most up to date software available for the installed hardware. Both will have parameter sets that have been updated relative to the upload from the vehicle."
+        ]
+      },
+      {
+        "image": true,
+        "images": [
+          "1"
+        ],
+        "imageTitle": [
+          "Selecting \"Latest\" or \"Newest\" Software"
+        ],
+        "imageDesc": [
+          "1. Device to Program 2. Vehicle Identification Number (VIN) 3. Settings"
+        ],
+        "overview": "Step 10: Select the controller to program, select the VIN, and select either \"Latest\" or \"Newest.\" Click \"Next.\"",
+        "procedures": []
+      },
+      {
+        "image": true,
+        "images": [
+          "1"
+        ],
+        "imageTitle": [
+          "Programming the Controller"
+        ],
+        "imageDesc": [
+          "1. Device to Program 2. Vehicle Identification Number (VIN) 3. Settings"
+        ],
+        "note": true,
+        "overview": "Step 11: Review and verify the VIN and hardware part number. Click \"Start\" to program the controller. The software will be flashed and the new parameter set will be written to the controller on the vehicle.",
+        "procedures": [
+          "IMPORTANT: After programming is complete, the following message may appear in DiagnosticLink: \"The connected vehicle contains powertrain and Chassis devices with incompatible software versions, you will need to update these control devices using Program Device. Click here for more information.\" If this message is shown, continue with the next step. Otherwise, go to step 15."
+        ]
+      },
+      {
+        "image": true,
+        "images": [
+          "1"
+        ],
+        "imageTitle": [
+          "Clicking on the Banner Message"
+        ],
+        "imageDesc": [
+          " "
+        ],
+        "overview": "Step 12: Click on the banner message.",
+        "procedures": []
+      },
+      {
+        "image": true,
+        "images": [
+          "1"
+        ],
+        "imageTitle": [
+          "Printing the List of Incompatible ECUs"
+        ],
+        "imageDesc": [
+          " "
+        ],
+        "overview": "Step 13: Print or take a screen shot of the incompatible ECUs.",
+        "procedures": []
+      },
+      {
+        "note": true,
+        "overview": "Step 14: Program all devices listed as incompatible from the previous step.",
+        "procedures": [
+          "IMPORTANT: After a programming, some fault codes may become active and some ECUs may not auto connect. Cycling the ignition may clear the faults and reconnect the ECUs."
+        ]
+      },
+      {
+        "overview": "Step 15: Cycle the ignition 3 times, waiting 30 seconds between key off and key on.",
+        "procedures": []
+      },
+      {
+        "overview": "Step 16: Turn the key to the ON position and connect the vehicle to DiagnosticLink.",
+        "procedures": []
+      },
+      {
+        "overview": "Step 17: Go to \"Actions\" and select \"ICUC Automatic Configuration.\" Click \"Start.\"",
+        "procedures": []
+      },
+      {
+        "overview": "Step 18: Turn the ignition to the OFF position, unplug DiagnosticLink, and wait one minute.",
+        "procedures": []
+      },
+      {
+        "overview": "Step 19: Connect DiagnosticLink, turn the key to the ON position. Clear inactive faults, and troubleshoot any active faults.",
+        "procedures": []
+      },
+      {
+        "overview": "Step 20: Disconnect vehicle from DiagnosticLink.",
+        "procedures": []
+      }
+    ]
+  },
+  "47-027": {
+    "title": "Equiflo Fuel System Breather Tube Inspection",
+    "bulletinNumber": "47-027",
+    "steps": [
+      {
+        "overview": "Step 1: Park the vehicle on a level surface, shut down the engine, and set the parking brake. Chock the tires.",
+        "procedures": []
+      },
+      {
+        "overview": "Step 2: Shorten or replace the existing blue fuel tank breather tube as follows. For cylindrical tanks, cut to a length of 12 inches (30 cm). For rectangular tanks, cut to a length of 15 inches (38 cm).",
+        "procedures": []
+      },
+      {
+        "note": true,
+        "overview": "Step 3: Connect the breather tube to the breather.",
+        "procedures": [
+          "NOTE: Use the natural roll of the tube to follow the curve of the fuel tank."
+        ]
+      },
+      {
+        "image": true,
+        "images": [
+          "1"
+        ],
+        "imageTitle": [
+          "Cylindrical Fuel Tank"
+        ],
+        "imageDesc": [
+          "1.45-DegreeCut 2.Adhesive-Backed Cable Tie3.Blue Breather Tube4.Breather5.Tank Surface"
+        ],
+        "note": true,
+        "overview": "Step 4: Trim the end of the breather tube at a 45-degree angle with the tube opening facing to the rear of the fuel tank.",
+        "procedures": [
+          "NOTE: Clean the fuel tank surface with alcohol before attaching the adhesive-backed cable tie."
+        ]
+      },
+      {
+        "image": true,
+        "images": [
+          "2"
+        ],
+        "imageTitle": [
+          "Rectangular Fuel Tank"
+        ],
+        "imageDesc": [
+          "1.45-Degree Cut 2.Adhesive-Backed Cable Tie 3.Blue Breather Tube 4.Breather 5.Tank Surface"
+        ],
+        "overview": "Step 5: Install the adhesive-backed cable tie on the fuel tank surface approximately 2.5 inches from the end of the breather tube.",
+        "procedures": []
+      },
+      {
+        "overview": "Step 6: Use a zip tie to attach the breather tube to the adhesive-backed cable tie.",
+        "procedures": []
+      },
+      {
+        "overview": "Step 7: Repeat the installation for the fuel tank on the opposite side.",
+        "procedures": []
+      }
+    ]
+  },
+  "42-067": {
+    "title": "Brake Shimmy\u00e2\u20ac\u201dMeritor SteeLite X30 Brake Drum with Excessive Runout",
+    "bulletinNumber": "42-067",
+    "steps": [
+      {
+        "overview": "Step 1: Park the vehicle on a level surface, shut down the engine, and set the parking brakes. Chock the rear tires.",
+        "procedures": []
+      },
+      {
+        "overview": "Step 2: Verify that the vehicle is equipped with Meritor SteeLite X30 brake drums.\r\nIf the vehicle does not have Meritor SteeLite X30 brake drums, this bulletin does not apply.\r\nIf the vehicle has Meritor SteeLite X30 brake drums, go to the next step.",
+        "procedures": []
+      },
+      {
+        "overview": "Step 3: Check the front wheel nuts for proper torque. For instructions, see Group 40 in the vehicle's workshop manual.",
+        "procedures": []
+      },
+      {
+        "overview": "Step 4: Raise the vehicle's front axle, and place it on appropriate jack stands.",
+        "procedures": []
+      },
+      {
+        "overview": "Step 5: Using a dial indicator, check the radial runout on the braking surfaces of the front brake drums.\r\nIf the runout on either drum is greater than 0.010 in (0.25 mm), replace the drums and brake linings on both axle ends.\r\nIf the runout on both drums is less than 0.010 in (0.25 mm), check for other issues that may be causing the shimmy.",
+        "procedures": []
+      },
+      {
+        "overview": "Step 6: If replacing the drums, replace the brake linings prior to installing the new drums. For instructions, see Group 42 of the vehicle's workshop manual.",
+        "procedures": []
+      },
+      {
+        "overview": "Step 7: Replace Meritor SteeLite X30 brake drums with a ConMet\u00c2\u00ae brake drum. Refer to Table 1 for replacement parts. For instructions, see Group 33 in the vehicle's workshop manual.",
+        "procedures": []
+      },
+      {
+        "overview": "Step 8: Check for incorrect hub-to-drum fitting or debris between the hub and drum.",
+        "procedures": []
+      },
+      {
+        "overview": "Step 9: Install the wheels and tires. For instructions, see Group 40 in the vehicle's workshop manual.",
+        "procedures": []
+      },
+      {
+        "overview": "Step 10: Using a dial indicator, check the radial runout on the braking surfaces of the newly installed brake drums. Runout must not exceed 0.010 in (0.25 mm).",
+        "procedures": []
+      },
+      {
+        "overview": "Step 11: Raise the vehicle and remove the jack stands. Lower the vehicle.",
+        "procedures": []
+      }
+    ]
+  },
+  "49-032": {
+    "title": "DEF Gauge Reading Incorrectly",
+    "bulletinNumber": "49-032",
+    "steps": [
+      {
+        "overview": "Step 1: Check to see if there is DEF in the tank. If the tank is not empty, drain the tank.\r\nOn vehicles with A04-27943-000 and A04-27943-001 tanks, disconnect the DEF line from the DEF outlet port at bottom of the tank, and let the DEF drain into the drain pan.\r\nOn vehicles with any other DEF header, use a siphon or invert the DEF tank after removal from the mounting brackets to empty the DEF from the tank.",
+        "procedures": []
+      },
+      {
+        "overview": "Step 2: Remove the tank from the vehicle. For instructions refer to Group 49 of the vehicle's Workshop Manual.",
+        "procedures": []
+      },
+      {
+        "overview": "Step 3: Remove the DEF-level sending unit. For instructions refer to Group 49 of the vehicle's Workshop Manual.",
+        "procedures": []
+      },
+      {
+        "overview": "Step 4: Clean the float and tube thoroughly with hot water, to restore free movement of the float on the tube.",
+        "procedures": []
+      },
+      {
+        "overview": "Step 5: Clean all DEF crystallization from the remainder of the unit with hot water.",
+        "procedures": []
+      },
+      {
+        "overview": "Step 6: Using a digital multimeter (DMM), test the sending unit resistance to make sure it is working properly. Refer to Table 1 for DEF level sensor resistance.",
+        "procedures": []
+      },
+      {
+        "note": true,
+        "overview": "Step 6.1: Connect the ohm meter to the sending unit connector on the pins identified in Table 1.",
+        "procedures": [
+          "NOTE: DEF level testing by moving the float with the sensor connected to the vehicle wiring is not recommended because the display response time to any movement in the DEF sensor float can take several minutes."
+        ]
+      },
+      {
+        "overview": "Step 6.2: Position the float at the full, midpoint, and empty positions and compare the resistance to that shown in Table 1 .\r\nIf the readings are not within range, replace the sending unit with a new one.",
+        "procedures": []
+      },
+      {
+        "overview": "Step 7: Install the sending unit in the tank. For instructions refer to Group 49 of the vehicle's Workshop Manual.",
+        "procedures": []
+      },
+      {
+        "overview": "Step 8: Install the tank. For instructions refer to Group 49 of the vehicle's Workshop Manual.",
+        "procedures": []
+      },
+      {
+        "overview": "Step 9: Fill the tank with DEF.",
+        "procedures": []
+      }
+    ]
+  },
+  "35-032": {
+    "title": "Detroit Drive Axle Identification and Lubrication",
+    "bulletinNumber": "35-032",
+    "steps": [
+      {
+        "overview": "Identifying Detroit Performance Axles",
+        "procedures": []
+      },
+      {
+        "overview": "Step 1: Use the Vehicle Info icon on DTNA Connect or PartsPro by VIN to get the correct axle model for the vehicle being serviced.",
+        "procedures": []
+      },
+      {
+        "overview": "Step 2: Inspect the axle. Go to \"Oil Fill Location, Top Performance Axles with ALM System\" below.",
+        "procedures": []
+      },
+      {
+        "overview": "Step 3: Check the axle data tag attached to the carrier housing. Refer to Table 2 for model (MOD) information.",
+        "procedures": []
+      },
+      {
+        "image": true,
+        "images": [
+          "1"
+        ],
+        "imageTitle": [
+          "Lube Management Air Line, Forward Rear Axle"
+        ],
+        "imageDesc": [
+          ""
+        ],
+        "overview": "Step 4: To help differentiate between the Top Performance and standard performance axles look for a purple air line to the lower part of the carrier on the passenger side of the forward carrier and the driver's side of the rear carrier. These air lines activate the Active Lube Management system on the Top Performance axles. Standard performance axles will not have these air lines. Standard Performance axles will also not have the fill plugs in the carrier; they will be in the back of the housing the same as Classic Detroit axles.",
+        "procedures": []
+      },
+      {
+        "overview": "New Final Drive Top Performance Hub Filling",
+        "procedures": []
+      },
+      {
+        "overview": "Step 1: Rotate wheel assembly so the hub fill plug is at the 4 o'clock position.",
+        "procedures": []
+      },
+      {
+        "image": true,
+        "images": [
+          "8"
+        ],
+        "imageTitle": [
+          "Hub at 4 O'clock Position"
+        ],
+        "imageDesc": [
+          ""
+        ],
+        "overview": "Step 2: Remove the drain plug.",
+        "procedures": []
+      },
+      {
+        "overview": "Step 3: Using a tube, add oil to the hub until the oil pours out of the fill hole.",
+        "procedures": []
+      },
+      {
+        "image": true,
+        "images": [
+          "10"
+        ],
+        "imageTitle": [
+          "Using a Tube to Fill Hub"
+        ],
+        "imageDesc": [
+          ""
+        ],
+        "overview": "Step 4: Install the fill plug and tighten 20 lbf\u00c2\u00b7ft (27 N\u00c2\u00b7m).",
+        "procedures": []
+      }
+    ]
+  },
+  "60-163": {
+    "title": "Adding Floor Support for Vehicles with Automatic or Automated Transmissions",
+    "bulletinNumber": "60-163",
+    "steps": [
+      {
+        "overview": "Step 1: Park the vehicle, shut down the engine, and apply the parking brakes. Chock the tires.",
+        "procedures": []
+      },
+      {
+        "overview": "Step 2: Pull the floor mat and insulation off the shifter opening.",
+        "procedures": []
+      },
+      {
+        "overview": "Step 3: Remove the cover from the shifter opening.",
+        "procedures": []
+      },
+      {
+        "image": true,
+        "images": [
+          "1"
+        ],
+        "imageTitle": [
+          "Shifter Opening"
+        ],
+        "imageDesc": [
+          "A. Grind out the nutserts in the two rearward holes on the sides of the opening."
+        ],
+        "overview": "Step 4: Grind out the nutserts in the two rearward holes on the sides of the shifter opening.",
+        "procedures": []
+      },
+      {
+        "image": true,
+        "images": [
+          "2"
+        ],
+        "imageTitle": [
+          "Drilling Holes in the New Floor Support"
+        ],
+        "imageDesc": [
+          ""
+        ],
+        "overview": "Step 5: Mark the center of the new floor support. Using the holes next to the shifter opening as a template, mark two points on the floor support, equidistant from the center mark, then drill through the floor support at the two points.",
+        "procedures": []
+      },
+      {
+        "image": true,
+        "images": [
+          "3"
+        ],
+        "imageTitle": [
+          "Riveting the Floor Support to the Sides of the Opening"
+        ],
+        "imageDesc": [
+          ""
+        ],
+        "overview": "Step 6: Using two rivets, attach the floor support on the underside of the floor.",
+        "procedures": []
+      },
+      {
+        "image": true,
+        "images": [
+          "4"
+        ],
+        "imageTitle": [
+          "Riveting the Floor Support to the Cab Floor"
+        ],
+        "imageDesc": [
+          ""
+        ],
+        "overview": "Step 7: Mark six equidistant points on the cab floor on each side of the shifter opening along the center axis of the floor support, then attach the support to the floor at each point with rivets.",
+        "procedures": []
+      },
+      {
+        "image": true,
+        "images": [
+          "6"
+        ],
+        "imageTitle": [
+          "Floor Support Attached to the Cab Floor and Frame"
+        ],
+        "imageDesc": [
+          ""
+        ],
+        "overview": "Step 8: Attach the ends of the floor support to the cab frame.",
+        "procedures": []
+      },
+      {
+        "overview": "Step 9: Replace the shifter opening cover and the floor mat.",
+        "procedures": []
+      }
+    ]
+  },
+  "60-161": {
+    "title": "Cold Air Intrusion Through Mirror Wiring Pass-Through",
+    "bulletinNumber": "60-161",
+    "steps": [
+      {
+        "overview": "Step 1: Park the vehicle on a level surface, shut down the engine, and set the parking brake. Chock the tires.",
+        "procedures": []
+      },
+      {
+        "note": true,
+        "image": true,
+        "images": [
+          "1"
+        ],
+        "imageTitle": [
+          "Mirror Installation"
+        ],
+        "imageDesc": [
+          "1.\tBack Cover\r\n2.\tArm Cover\r\n3.\tScrew\r\n4.\tWiring\r\n5.\tBase\r\n6.\tArm"
+        ],
+        "overview": "Step 2: Close the door, then remove the three screws that attach the mirror mounting bracket to the door. Support the mirror so as not to damage the door finish.",
+        "procedures": [
+          "NOTE: Do not try to pull out the wire harness to reach the connector, as it is attached to the inner door panel. There is enough slack to do this procedure without disconnecting the harness."
+        ]
+      },
+      {
+        "image": true,
+        "images": [
+          "2"
+        ],
+        "imageTitle": [
+          "Separating the Rubber Gasket from the Mirror Mounting Base"
+        ],
+        "imageDesc": [
+          "NOTE: Do not try to pull out the wire harness to reach the connector. Do this procedure while holding the mirror. The mirror is shown on a bench for clarity in this and the following photos."
+        ],
+        "overview": "Step 3: While holding the mirror, separate the mirror-arm gasket from the back of the mirror mounting base.",
+        "procedures": []
+      },
+      {
+        "image": true,
+        "images": [
+          "3"
+        ],
+        "imageTitle": [
+          "Installing the Foam Block"
+        ],
+        "imageDesc": [
+          " "
+        ],
+        "overview": "Step 4: Orient the foam block as shown in Fig. 3 , then compress it to fit inside the mounting base as shown in Fig. 4 .",
+        "procedures": []
+      },
+      {
+        "overview": "Step 5: Install the rubber gasket on the back of the mirror mounting base.",
+        "procedures": []
+      },
+      {
+        "overview": "Step 6: Position the mirror and the rubber gasket on the door, supporting it while installing the three screws. Make sure the weight of the mirror is not resting on the threads of the screws as they are tightened. Tighten the screws 11 lbf\u00c2\u00b7ft (15 N\u00c2\u00b7m), starting with the upper, then the rear, and finally the lower forward screw.",
+        "procedures": []
+      }
+    ]
+  },
+  "49-040": {
+    "title": "Diesel Exhaust Fluid (DEF) Pressure Line Disconnected at the Doser Connection",
+    "bulletinNumber": "49-040",
+    "steps": [
+      {
+        "overview": "Step 1: Park the vehicle on a level surface, shut down the engine, and set the parking brake. Chock the tires.",
+        "procedures": []
+      },
+      {
+        "overview": "Step 2: Locate the DEF pressure line on the ATS.",
+        "procedures": []
+      },
+      {
+        "image": true,
+        "images": [
+          "2"
+        ],
+        "imageTitle": [
+          "Installing a Zip Tie on the DEF Pressure Line and Doser"
+        ],
+        "imageDesc": [
+          "A.Ensure the zip tie is routed through the doser mounting bracket.B.The zip tie must have a twist as shown to secure it in position on the pressure line fitting.C. Position the zip tie locking block on top of the pressure fitting."
+        ],
+        "overview": "Step 3: Install a zip tie through the doser mounting bracket and around the DEF pressure line as shown.",
+        "procedures": []
+      }
+    ]
+  },
+  "54-304": {
+    "title": "Enhanced Stability Control Ground Cable Routing",
+    "bulletinNumber": "54-304",
+    "steps": [
+      {
+        "overview": "Step 1: Park the vehicle, shut down the engine, and set the parking brakes. Chock the tires.",
+        "procedures": []
+      },
+      {
+        "overview": "Step 2: Inspect the ESC module.",
+        "procedures": []
+      },
+      {
+        "overview": "Step 2.1: Verify that no components are in direct contact with the ESC module, connector, or wiring, or might contact it while in operation.",
+        "procedures": []
+      },
+      {
+        "overview": "Step 2.2: Check that the module is securely mounted so that excessive vibration cannot be transmitted to the ESC Module. The ESC should be mounted on its own mounting bracket.",
+        "procedures": []
+      },
+      {
+        "overview": "Step 3: Perform an ESC driving calibration to verify proper operation.",
+        "procedures": []
+      },
+      {
+        "overview": "Step 3.1: Start the engine and drive the vehicle in a straight line for 320 feet (100 meters) and then turn the steering wheel a minimum of 180 degrees.",
+        "procedures": []
+      },
+      {
+        "overview": "Step 3.2: Park the vehicle, shut down the engine, and set the parking brakes. Chock the tires.",
+        "procedures": []
+      },
+      {
+        "overview": "Step 3.3: Check if the fault code is still active. If the code is still active, continue with step 3.4. If the code is no longer active, go to step 4.",
+        "procedures": []
+      },
+      {
+        "overview": "Step 3.4: Check the power, ground, and CAN wires from the ABS module to the ESC module for damage. If these wires are OK, replace the ESC module.",
+        "procedures": []
+      },
+      {
+        "image": true,
+        "images": [
+          "1"
+        ],
+        "imageTitle": [
+          "Cable Routing"
+        ],
+        "imageDesc": [
+          "A.\tRoute the ground cable away from the ESC module.\r\n1.\tESC"
+        ],
+        "overview": "Step 4: Route the ground cable away from the ESC module, attaching it to the chassis harness just below the crossmember.",
+        "procedures": []
+      },
+      {
+        "image": true,
+        "images": [
+          "2"
+        ],
+        "imageTitle": [
+          "Cable Routing"
+        ],
+        "imageDesc": [
+          "A.\tMake sure there is space between the ground cable and the ESC module.\r\n1.\tESC\r\n2.\tGround Cable"
+        ],
+        "overview": "Step 5: Make sure there is space between the ground cable and the ESC module.",
+        "procedures": []
+      },
+      {
+        "overview": "Perform an ESC driving calibration. Start the engine and drive the vehicle in a straight line for 320 feet (100 meters) and then turning the steering wheel a minimum of 180 degrees.",
+        "procedures": []
+      }
+    ]
+  }
+}
